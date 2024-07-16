@@ -1,0 +1,36 @@
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4 - routing\AnalyticsConsumer\bin\Debug\net8.0\AnalyticsConsumer.exe
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4 - routing\AnalyticsConsumer\bin\Debug\net8.0\AnalyticsConsumer.deps.json
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4 - routing\AnalyticsConsumer\bin\Debug\net8.0\AnalyticsConsumer.runtimeconfig.json
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4 - routing\AnalyticsConsumer\bin\Debug\net8.0\AnalyticsConsumer.dll
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4 - routing\AnalyticsConsumer\bin\Debug\net8.0\AnalyticsConsumer.pdb
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4 - routing\AnalyticsConsumer\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4 - routing\AnalyticsConsumer\obj\Debug\net8.0\AnalyticsConsumer.csproj.AssemblyReference.cache
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4 - routing\AnalyticsConsumer\obj\Debug\net8.0\AnalyticsConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4 - routing\AnalyticsConsumer\obj\Debug\net8.0\AnalyticsConsumer.AssemblyInfoInputs.cache
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4 - routing\AnalyticsConsumer\obj\Debug\net8.0\AnalyticsConsumer.AssemblyInfo.cs
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4 - routing\AnalyticsConsumer\obj\Debug\net8.0\AnalyticsConsumer.csproj.CoreCompileInputs.cache
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4 - routing\AnalyticsConsumer\obj\Debug\net8.0\AnalyticsConsumer.sourcelink.json
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4 - routing\AnalyticsConsumer\obj\Debug\net8.0\Analytic.84A9CFEA.Up2Date
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4 - routing\AnalyticsConsumer\obj\Debug\net8.0\AnalyticsConsumer.dll
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4 - routing\AnalyticsConsumer\obj\Debug\net8.0\refint\AnalyticsConsumer.dll
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4 - routing\AnalyticsConsumer\obj\Debug\net8.0\AnalyticsConsumer.pdb
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4 - routing\AnalyticsConsumer\obj\Debug\net8.0\AnalyticsConsumer.genruntimeconfig.cache
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4 - routing\AnalyticsConsumer\obj\Debug\net8.0\ref\AnalyticsConsumer.dll
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4.2 - routing topic exchange\AnalyticsConsumer\bin\Debug\net8.0\AnalyticsConsumer.exe
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4.2 - routing topic exchange\AnalyticsConsumer\bin\Debug\net8.0\AnalyticsConsumer.deps.json
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4.2 - routing topic exchange\AnalyticsConsumer\bin\Debug\net8.0\AnalyticsConsumer.runtimeconfig.json
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4.2 - routing topic exchange\AnalyticsConsumer\bin\Debug\net8.0\AnalyticsConsumer.dll
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4.2 - routing topic exchange\AnalyticsConsumer\bin\Debug\net8.0\AnalyticsConsumer.pdb
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4.2 - routing topic exchange\AnalyticsConsumer\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4.2 - routing topic exchange\AnalyticsConsumer\obj\Debug\net8.0\AnalyticsConsumer.csproj.AssemblyReference.cache
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4.2 - routing topic exchange\AnalyticsConsumer\obj\Debug\net8.0\AnalyticsConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4.2 - routing topic exchange\AnalyticsConsumer\obj\Debug\net8.0\AnalyticsConsumer.AssemblyInfoInputs.cache
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4.2 - routing topic exchange\AnalyticsConsumer\obj\Debug\net8.0\AnalyticsConsumer.AssemblyInfo.cs
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4.2 - routing topic exchange\AnalyticsConsumer\obj\Debug\net8.0\AnalyticsConsumer.csproj.CoreCompileInputs.cache
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4.2 - routing topic exchange\AnalyticsConsumer\obj\Debug\net8.0\AnalyticsConsumer.sourcelink.json
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4.2 - routing topic exchange\AnalyticsConsumer\obj\Debug\net8.0\Analytic.84A9CFEA.Up2Date
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4.2 - routing topic exchange\AnalyticsConsumer\obj\Debug\net8.0\AnalyticsConsumer.dll
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4.2 - routing topic exchange\AnalyticsConsumer\obj\Debug\net8.0\refint\AnalyticsConsumer.dll
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4.2 - routing topic exchange\AnalyticsConsumer\obj\Debug\net8.0\AnalyticsConsumer.pdb
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4.2 - routing topic exchange\AnalyticsConsumer\obj\Debug\net8.0\AnalyticsConsumer.genruntimeconfig.cache
+C:\Users\romua\OneDrive\Documentos\projetos\rabbitMQ\4.2 - routing topic exchange\AnalyticsConsumer\obj\Debug\net8.0\ref\AnalyticsConsumer.dll
